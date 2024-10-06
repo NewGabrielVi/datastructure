@@ -7,6 +7,6 @@ Passo a Passo do trabalho:
 
 * Importar as bibliotecas necessárias e o arquivo .csv baixando pelo SCOPUS(Elsevier). TEMA: CIÊNCIA DA COMPUTAÇÃO.
 ![Local Image](./images/image1.png)
-![image](https://hackmd.io/_uploads/H1io45gkJx.png)
+![Local Image](./images/image2.png)
 *  Análise de rede: Densidade da Rede, Sub-Grafo, Histograma dos Graus;
-![image](https://hackmd.io/_uploads/BJXZSce11l.png)
+![Local Image](./images/image3.png)
