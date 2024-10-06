@@ -5,8 +5,8 @@
 
 Passo a Passo do trabalho:
 
-* Importar as bibliotecas necessárias e o arquivo .csv baixando pelo SCOPUS(Elsevier). TEMA: CIÊNCIA DA COMPUTAÇÃO.
+####* Importar as bibliotecas necessárias e o arquivo .csv baixando pelo SCOPUS(Elsevier). TEMA: CIÊNCIA DA COMPUTAÇÃO.
 ![Local Image](./images/image1.png)
 ![Local Image](./images/image2.png)
-*  Análise de rede: Densidade da Rede, Sub-Grafo, Histograma dos Graus;
+####*  Análise de rede: Densidade da Rede, Sub-Grafo, Histograma dos Graus;
 ![Local Image](./images/image3.png)
