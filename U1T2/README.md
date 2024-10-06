@@ -1,7 +1,7 @@
 # Trabalho 2 Unidade 1
 ### O trabalho proposto tem como objetivo reforçar conceitos de grafos utilizando a biblioteca NetworkX no Python.
 
-#### Students: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
+#### Discentes: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
 
 Passo a Passo do trabalho:
 
