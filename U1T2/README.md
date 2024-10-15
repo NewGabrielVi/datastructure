@@ -1,13 +1,22 @@
-# Trabalho 2 Unidade 1
-### O trabalho proposto tem como objetivo reforçar conceitos de grafos utilizando a biblioteca NetworkX no Python.
+# Assignment 2 Unit 1
+### The proposed assignment aims to reinforce concepts of graphs using the NetworkX library in Python.
 
-#### Discentes: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
-#### LINK DO VÍDEO: https://www.loom.com/share/55c30539c9cc44bdae78bd1fa9f60abe?sid=b8ebcc54-a875-4e88-b60e-4537794f3e5c
+#### Students: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
 
-Passo a Passo do trabalho:
+### 🔗 Video with the explanation of the assignment [here](https://www.loom.com/share/55c30539c9cc44bdae78bd1fa9f60abe?sid=b8ebcc54-a875-4e88-b60e-4537794f3e5c).
 
-* Importar as bibliotecas necessárias e o arquivo .csv baixando pelo SCOPUS(Elsevier). TEMA: CIÊNCIA DA COMPUTAÇÃO.
-![Local Image](./images/image1.png)
-![Local Image](./images/image2.png)
-*  Análise de rede: Densidade da Rede, Sub-Grafo, Histograma dos Graus;
+🔄 Step-by-Step Guide for the assignment:
+
+#### References
+
+- :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
+- :books: [Elsevier, Scopus](https://www.elsevier.com/)
+
+* **Import the necessary libraries and the .csv file downloaded from SCOPUS (Elsevier).** 
+    ###### TOPIC: COMPUTER SCIENCE 🖥️.
+    ![Local Image](./images/image1.png)
+    ![Local Image](./images/image2.png)
+
+* **Network analysis: Network Density, Subgraph, Degree Histogram.**
+
 ![Local Image](./images/image3.png)
