@@ -1,8 +1,9 @@
 # Data Structure
-**Unidade 1 e Trabalho1:**
+### **Unit 1 and Assignment 1**
 
-Requisitos: 
-1. Ler os quatro primeiros capítulos do livro-texto da disciplina, The Atlas For The Aspiring Network Scientist.
-2. Responder aos exercícios correspondentes aos capítulos 2, 3 e 4.
+#### Requirements:
 
-Discente: Gabriel Vitor Pereira, CeT e Algoritmos e Estruturas de Dados II - T01 (2024.2).
+1. Read the first four chapters of the course textbook, The Atlas for the Aspiring Network Scientist.
+2. Answer the exercises corresponding to chapters 2, 3, and 4.
+
+Student: Gabriel Vitor Pereira dos Santos, C&T e Algorithms and Data Structures II.
