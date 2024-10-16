@@ -1,72 +1,58 @@
-# U1T3 - Medicamentos Registrados no Brasil | 🇧🇷
+# U1T3 - Registered Drugs in Brazil | 🇧🇷
 
-### Dados Abertos Medicamentos:
-##### A base de dados abertos de registro de medicamentos é um projeto de inteligência de Dados que extrai informações do sistema Datavisa para listar os produtos que tenham sido registrados pela Anvisa, incluindo aqueles cujo registro já esteja válido ou cancelado/caduco, de acordo como informado no portal de consultas da Agência.
+### Open Data on Drugs:
+##### The open database of drug registration is a data intelligence project that extracts information from the Datavisa system to list products that have been registered by Anvisa, including those whose registration is either valid or canceled/expired, as reported on the Agency's consultation portal.
+
 
 #### Students: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
 
 ### 🔗 Video with the explanation of the assignment [here](https://www.loom.com/share/08cd6f3741e84edeb47a4ecd0dc8b0b4?sid=09f2361b-b883-4df3-8764-b87d65542a14).
 ##### Hipóteses a serem testadas:
-1. Hipótese da Categoria Regulatória:
-○ Medicamentos da mesma categoria regulatória tendem a compartilhar
-mais princípios ativos?
-2. Hipótese da Empresa:
-○ Medicamentos da mesma empresa tendem a compartilhar mais
-princípios ativos?
-3. Hipótese da Complexidade:
-○ Medicamentos com mais princípios ativos tendem a se conectar com
-medicamentos de similar complexidade?
+1. **Hypothesis of Regulatory Category:**
+   - Do drugs within the same regulatory category tend to share more active ingredients?
+
+2. **Hypothesis of the Company:**
+   - Do drugs from the same company tend to share more active ingredients?
+
+3. **Hypothesis of Complexity:**
+   - Do drugs with more active ingredients tend to connect with drugs of similar complexity?
 
 #### References
 
 - :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
+  
 
-> Rede #01
-Co-ocorrência de Princípios Ativos entre Medicamentos
-● Nós (vértices): Cada medicamento é um nó.
+> **Network #01**  
+Co-occurrence of Active Ingredients among Drugs
+- **Nodes (Vertices):** Each drug is a node.
+- **Edges:** An edge exists between two drugs if they share at least one active ingredient.
+- **Assortativity:** Calculate the assortativity based on the regulatory category of the drugs.
 
-● Arestas (Edges): Existe uma aresta entre dois medicamentos se eles
-compartilham ao menos um princípio ativo.
+**Question to be answered:**
+- Do drugs within the same regulatory category tend to share active ingredients?
 
-● Assortatividade: Calcular a assortatividade com base na categoria
-regulatória dos medicamentos.
-
-Pergunta a ser respondida:
-
-○ Medicamentos da mesma categoria regulatória tendem a compartilhar
-princípios ativos?
 ----------------
-> Rede #02
-Grafo Bipartido de Medicamentos e Princípios Ativos
-● Nós (vértices): Medicamentos e princípios ativos são nós distintos.
 
-● Arestas (Edges): Uma aresta conecta um medicamento aos seus
-respectivos princípios ativos.
+> **Network #02**  
+Bipartite Graph of Drugs and Active Ingredients
+- **Nodes (Vertices):** Drugs and active ingredients are distinct nodes.
+- **Edges:** An edge connects a drug to its respective active ingredients.
+- **Assortativity:** Calculate the assortativity by degree within the bipartite graph to determine if active ingredients connecting to complex drugs (with many active ingredients) also tend to connect to drugs with similar complexity profiles.
 
-● Assortatividade: Calcular a assortatividade por grau dentro do grafo
-bipartido para determinar se os princípios ativos que se conectam a
-medicamentos complexos (com muitos princípios ativos) tendem a se
-conectar também a medicamentos com perfis de complexidade
-semelhante.
+**Question to be answered:**
+- Do active ingredients shared by complex drugs tend to connect to drugs with similar complexity profiles?
 
-Pergunta a ser respondida:
-
-○ Princípios ativos compartilhados por medicamentos complexos tendem
-a se conectar a medicamentos com perfis de complexidade similar?
 -----------------
-> Rede #03
-Co-ocorrência por Empresa ou Classe Terapêutica
-● Nós (Nodes): Cada medicamento é um nó.
 
-● Arestas (Edges): Existe uma aresta entre dois medicamentos se eles
-compartilham ao menos um princípio ativo.
+> **Network #03**  
+Co-occurrence by Company or Therapeutic Class
+- **Nodes:** Each drug is a node.
+- **Edges:** An edge exists between two drugs if they share at least one active ingredient.
+- **Assortativity:** Calculate the assortativity based on the company or therapeutic class of the drugs.
 
-● Assortatividade: Calcular a assortatividade com base na empresa ou classe
-terapêutica dos medicamentos.
+**Question to be answered:**
+- Do drugs from the same company or therapeutic class tend to share more active ingredients?
 
-Pergunta a ser respondida:
-
-○ Medicamentos da mesma empresa ou classe terapêutica tendem a
-compartilhar mais princípios ativos?
 ----------------
+
 
