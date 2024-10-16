@@ -5,7 +5,7 @@
 
 #### Students: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
 
-### 🔗 Video with the explanation of the assignment [here]().
+### 🔗 Video with the explanation of the assignment [here](https://www.loom.com/share/08cd6f3741e84edeb47a4ecd0dc8b0b4?sid=09f2361b-b883-4df3-8764-b87d65542a14).
 ##### Hipóteses a serem testadas:
 1. Hipótese da Categoria Regulatória:
 ○ Medicamentos da mesma categoria regulatória tendem a compartilhar
