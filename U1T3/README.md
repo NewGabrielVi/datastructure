@@ -54,5 +54,14 @@ Co-occurrence by Company or Therapeutic Class
 - Do drugs from the same company or therapeutic class tend to share more active ingredients?
 
 ----------------
-
+>Results
+#### REDE 01
+![REDE 01](imagens/rede1.png)
+![REDE 01](imagens/rede1.1.png)
+#### REDE 02
+![REDE 02](imagens/rede2.png)
+![REDE 02](imagens/rede2.2.png)
+#### REDE 03
+![REDE 03](imagens/rede3.png)
+![REDE 03](imagens/rede3.3.png)
 
