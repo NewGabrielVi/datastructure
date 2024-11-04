@@ -19,9 +19,9 @@
 * number connected components, BFS, DFS, SCC, WCC;
 * Clustering Coefficient.
 
-Principais resultados de acordo com cada tópico:
 ## Gráfico de Natal-RN
 ![gráfico](images/gráfico.png)
+# Principais resultados de acordo com cada tópico:
 ## Cycles: Quantos ciclos independentes existem na rede de Natal?
 ![cycles](images/Cycles.png)
 ## Average Shortest Path Length: Qual é o comprimento médio do caminho mais curto na rede?
