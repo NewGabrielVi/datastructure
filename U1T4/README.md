@@ -18,6 +18,10 @@
 * Giant Connected Components; 
 * number connected components, BFS, DFS, SCC, WCC;
 * Clustering Coefficient.
+----------------
+# Explicação: 
+### Foi útilizado as métricas apresentadas em sala de aula e aplicadas em código sobre o o gráfico do mapa de Natal - RN, abaixo está os resultados de cada métrica apresentada, mais detalhes do código podem ser vistos em U1T4.ipynb.
+
 
 ## Gráfico de Natal-RN
 ![gráfico](images/gráfico.png)
