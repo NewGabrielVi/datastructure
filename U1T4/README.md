@@ -18,10 +18,14 @@
 * Giant Connected Components; 
 * number connected components, BFS, DFS, SCC, WCC;
 * Clustering Coefficient.
+----------------
+# Explicação: 
+### Foi útilizado as métricas apresentadas em sala de aula e aplicadas em código sobre o o gráfico do mapa de Natal - RN, abaixo está os resultados de cada métrica apresentada, mais detalhes do código podem ser vistos em U1T4.ipynb.
 
-Principais resultados de acordo com cada tópico:
+
 ## Gráfico de Natal-RN
 ![gráfico](images/gráfico.png)
+# Principais resultados de acordo com cada tópico:
 ## Cycles: Quantos ciclos independentes existem na rede de Natal?
 ![cycles](images/Cycles.png)
 ## Average Shortest Path Length: Qual é o comprimento médio do caminho mais curto na rede?
