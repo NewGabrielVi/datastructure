@@ -16,6 +16,28 @@
 pip install osmnx
 ```
 2. Baixar a rede de Campim Macio e Nova Descoberta, e exibir um gráfo:
+```
+   # Coordenadas para os bairros de Campim Macio e Nova Descoberta
+campim_coordenadas = (-5.837, -35.203)
+nova_coordenadas = (-5.821, -35.209)
+
+# Baixar a rede viária para cada bairro com raio de 3000 metros para cobrir uma área ampla
+G_campim = ox.graph_from_point(campim_coordenadas, dist=3000, dist_type="network", network_type="bike")
+G_nova = ox.graph_from_point(nova_coordenadas, dist=3000, dist_type="network", network_type="bike")
+
+# Unir as redes dos bairros em um único grafo
+G_combined = nx.compose(G_campim, G_nova)
+
+# Visualizar a rede combinada com configurações personalizadas
+fig, ax = ox.plot_graph(
+    G_combined,
+    figsize=(12, 12),
+    node_size=5,
+    edge_color="white",
+    edge_linewidth=0.3,
+    bgcolor="black"
+)
+```
 
 # Gráfo de Nova Descoberta e Campim macio:
 ![gráfico](images/camesp.png)
