@@ -2,7 +2,7 @@
 
 #### Student: Gabriel Vitor Pereira dos Santos.
 
-### 🔗 Video with the explanation of the assignment [here]
+### 🔗 Video with the explanation of the assignment [here](https://www.loom.com/share/841cfd3283b843eea0c456db2b3bce12?sid=c5c35dd5-ae20-448d-a868-aba5837ccfa9).
 
 #### References
 
