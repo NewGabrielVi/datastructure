@@ -103,10 +103,9 @@ Por outro lado, os nós do shell, em azul, têm uma conectividade mais baixa e s
 ![gráfico](images/CAMPIM.png)
 ![gráfico](images/NOVA_DESCO.png)
 
-
+---------- 
 # Onde eu poderia colocar dock-station(S) de compartilhamento de bicicletas?
 
 #### Com base nessa análise, podemos concluir que os pontos com alta centralidade de grau e alta centralidade de betweenness são ideais para as dock stations. Esses locais representam as áreas mais conectadas e acessíveis da cidade. Além disso, devemos considerar a proximidade de pontos de transporte público e áreas de alto fluxo de pessoas para maximizar a utilização do sistema.
 
 #### Essa análise ajudará a otimizar o uso das bicicletas compartilhadas e garantir que as pessoas tenham fácil acesso às dock stations, principalmente nas regiões mais movimentadas da cidade.
-
