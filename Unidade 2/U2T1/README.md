@@ -1,13 +1,11 @@
 # Trabalho 1 Unidade 2
-### tem como objetivo aplicar os conceitos aprendidos durante o curso para analisar a rede de co-autoria dos professores permanentes do Programa de Pós-Graduação em Engenharia Elétrica e de Computação (PPgEEC), utilizando a ferramenta Gephi.
+### Esse trabalho tem como objetivo aplicar os conceitos aprendidos durante o curso para analisar a rede de co-autoria dos professores permanentes do Programa de Pós-Graduação em Engenharia Elétrica e de Computação (PPgEEC), utilizando a ferramenta Gephi.
 
-#### Students: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
+#### Estudantes: Gabriel Vitor Pereira dos Santos e João Victor Soares da Silva Vieira.
 
-### 🔗 Video with the explanation of the assignment [here]().
+### 🔗 Video com a explicação do trabalho. [here]().
 
-🔄 Step-by-Step Guide for the assignment:
-
-#### References
+#### Referências:
 
 - :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
 - :books: [Gephi, The Open Graph Viz Platform](https://gephi.org/)
