@@ -18,6 +18,15 @@
   #### - b. Tempo médio de execução (eixo y).
   #### - c. Intervalos de confiança como barras de erro no gráfico.
   -----------------------------------------------
+  ## Para a comparação de algoritmos em `main.ipynb` instale o necessário:
+  `import plotly.graph_objs as go`
+  
+   `import numpy as np`
+  `import matplotlib.pyplot as plt`
+  
+  `from time import time`
+  
+`from scipy.stats import t`
 # Solver Closest
 ![Local Image](./images/solver_closest.png)
 # KTH_Largest
