@@ -23,4 +23,4 @@
 # KTH_Largest
 ![Local Image](./images/solver_kth_largest.png)
 # Desempenho dos Algoritmos
-![Local Image](./images/desempenho.png)
+![Local Image](./images/Desempenho.png)
