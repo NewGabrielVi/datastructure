@@ -1,7 +1,7 @@
 # Trabalho 2 Unidade 2
 #### Estudante: Gabriel Vitor Pereira dos Santos.
 
-### 🔗 Video com a explicação do trabalho. [here]().
+### 🔗 Video com a explicação do trabalho. [here](https://www.loom.com/share/872bcd40f860481eaf56f9109f178e2f?sid=cb870ec9-d204-458c-869f-c8d9a4e24399).
 
 #### Referências:
 
