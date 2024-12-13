@@ -17,3 +17,8 @@
   #### - a. Tamanho do vetor (eixo x).
   #### - b. Tempo médio de execução (eixo y).
   #### - c. Intervalos de confiança como barras de erro no gráfico.
+  -----------------------------------------------
+# Solver Closest
+![Local Image](./images/solver_closest.png)
+# KTH_Largest
+![Local Image](./images/solver_kth_largest.png)
