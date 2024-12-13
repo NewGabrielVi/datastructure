@@ -1,13 +1,11 @@
 # Trabalho 1 Unidade 2
-### tem como objetivo aplicar os conceitos aprendidos durante o curso para analisar a rede de co-autoria dos professores permanentes do Programa de Pós-Graduação em Engenharia Elétrica e de Computação (PPgEEC), utilizando a ferramenta Gephi.
+### Esse trabalho tem como objetivo aplicar os conceitos aprendidos durante o curso para analisar a rede de co-autoria dos professores permanentes do Programa de Pós-Graduação em Engenharia Elétrica e de Computação (PPgEEC), utilizando a ferramenta Gephi.
 
-#### Students: Gabriel Vitor Pereira dos Santos and João Victor Soares da Silva Vieira.
+#### Estudantes: Gabriel Vitor Pereira dos Santos e João Victor Soares da Silva Vieira.
 
-### 🔗 Video with the explanation of the assignment [here]().
+### 🔗 Video com a explicação do trabalho. [here](https://www.loom.com/share/a265045bbaf24e0bbd8af8e475e08335?sid=328d0568-b163-49ba-86a7-c2527251dc30).
 
-🔄 Step-by-Step Guide for the assignment:
-
-#### References
+#### Referências:
 
 - :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
 - :books: [Gephi, The Open Graph Viz Platform](https://gephi.org/)
@@ -27,7 +25,7 @@ Interpretando o gráfico:
 Interpretando o gráfico:
 * Vértices com cores mais intensas ou tamanhos maiores indicam autores mais centrais, ou seja, aqueles que podem alcançar mais rapidamente outros pesquisadores na rede de co-autoria.
 ![Local Image](./images/Closeness.png)
-* 3. Betweenness Centrality
+# 3. Betweenness Centrality
 * **O que é?**
 * A Betweenness Centrality mede a importância de um nó como intermediário nas conexões entre outros nós. Ele calcula quantas vezes um nó aparece no caminho mais curto entre outros pares de nós. Um nó com alta betweenness centrality atua como um "ponte" ou "conector" na rede.
 * **O que significa no contexto do trabalho?**
