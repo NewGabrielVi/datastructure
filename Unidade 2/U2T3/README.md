@@ -1,7 +1,7 @@
 # Trabalho 3 Unidade 2
 #### Estudante: Gabriel Vitor Pereira dos Santos.
 
-### 🔗 Video com a explicação do trabalho. [here]().
+### 🔗 Video com a explicação do trabalho. [here](https://www.loom.com/share/2fd7350f68544a17a981c4f6e804adb9?sid=818e8053-c8bf-4f3c-9e2d-18413d254862).
 
 #### Referências:
 
@@ -47,5 +47,5 @@
 # Análise de Infraestrutura Crítica:
 ### Identificar estradas ou interseções críticas comparando a MST com a rede viária original, destacando as vias essenciais para manter a conectividade.
 ![Local Image](./images/img1.png)
-# Desempenho dos Algoritmos
+# Desempenho do kruskal:
 ![Local Image](./images/img2.png)
