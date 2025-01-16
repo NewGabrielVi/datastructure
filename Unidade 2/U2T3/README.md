@@ -1,7 +1,7 @@
 # Trabalho 3 Unidade 2
 #### Estudante: Gabriel Vitor Pereira dos Santos.
 
-### 🔗 Video com a explicação do trabalho. [here](https://www.loom.com/share/2fd7350f68544a17a981c4f6e804adb9?sid=818e8053-c8bf-4f3c-9e2d-18413d254862).
+### 🔗 Video com a explicação do trabalho. [here](https://www.loom.com/share/387cd83ff2214e39ac4165549769e642?sid=f6dc33ff-851d-4f42-859e-dbc7bb97ef96).
 
 #### Referências:
 
@@ -48,4 +48,5 @@
 ### Identificar estradas ou interseções críticas comparando a MST com a rede viária original, destacando as vias essenciais para manter a conectividade.
 ![Local Image](./images/img1.png)
 # Desempenho do kruskal:
+# Observação: Ponto crítico pode ser considerado importante para o estado ou organização responsável por aquele trecho em NATAL/RN.
 ![Local Image](./images/img2.png)
