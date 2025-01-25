@@ -20,12 +20,13 @@
 #### ● Trabalhar com entidades como PERSON, ORG, e GPE.
 #### ● Documentar o processo de análise e salvar os resultados intermediários para inclusão da nota técnica final.
 #### 4. Geração de Redes
-● Criar uma rede com base nas relações entre as entidades
-extraídas.
-● Utilizar a biblioteca NetworkX para construir e manipular a
-estrutura do grafo.
-● Comparar os grafos gerados a partir de diferentes textos ou
-fontes.
+#### ● Criar uma rede com base nas relações entre as entidades extraídas.
+#### ● Utilizar a biblioteca NetworkX para construir e manipular a estrutura do grafo.
+#### ● Comparar os grafos gerados a partir de diferentes textos ou fontes.
+#### 5. Análise da Rede
+#### ● Calcular métricas como grau, centralidade e densidade.
+#### ● Identificar padrões e características, como clusters, hubs ou comunidades relevantes.
+#### ● Incorporar visualizações intermediárias (ego network, k-core, etc) para análise qualitativa.
  
 # Solver Closest
 ![Local Image](./images/.png)
